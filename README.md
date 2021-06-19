@@ -1,1 +1,1 @@
-# 06_Python_Object_-_Class
+# 06_Python_Object_Class
